@@ -1,0 +1,12 @@
+{
+  "appId": "com.fitnessplans",
+  "appName": "Starter App",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist/app/browser",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
